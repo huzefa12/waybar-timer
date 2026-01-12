@@ -2,16 +2,14 @@
 
 Flexible timer for Waybar with mouse controls and CLI commands.
 
-## Preview
-
-![Timer Preview](assets/preview.gif)
-
 ## Features
 
-- Flexible time setting with natural formats (10s, 5m, 1hr, 1h30m, etc.)
+- Countdown Timer with precise time tracking
 - Mouse controls and CLI commands for automation
-- Very Low/No CPU usage
-- Desktop notifications
+- Preset system for quick duration selection
+- Desktop notifications on timer completion
+- Visual indicators for multiple timer states: disabled, idle, select, running, paused, done
+- Low/No CPU usage
 
 ## Installation
 
@@ -56,7 +54,6 @@ Flexible timer for Waybar with mouse controls and CLI commands.
      padding: 0 9px;
      font-size: 16;
      border-radius: 15px;
-     /* Add your prefered heree */
      font-family: "Doto";
      font-weight: 900;
 
@@ -260,8 +257,6 @@ Example: `RUNNING|300|1703123456|0|1703123456|2`
 ## Notifications
 
 When a timer completes, it sends a notification.
-
-![Timer Notification](assets/notification.png)
 
 ## Behavior Details
 
