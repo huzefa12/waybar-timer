@@ -80,7 +80,7 @@ Check out the latest updates and improvements! See [Release Notes](https://githu
    Add these styles and customize colors, fonts, and animations to your preference.
 
    <details>
-   <summary><strong>click to expand CSS styling</strong></summary>
+   <summary><strong>Click to Expand CSS styling</strong></summary>
 
    ```css
     /* Waybar Timer */
