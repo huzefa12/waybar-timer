@@ -19,7 +19,7 @@ Check out the latest updates and improvements! See [Release Notes](https://githu
 - Dynamic visual feedback with state-specific icons and colors
 - Customizable presets and helpful tooltips
 - Persistent state across Waybar restarts, syncs multiple instances
-- Zero CPU usage when idle, RAM-based storage
+- Low/No CPU usage, and RAM-based storage instead of Disk
 
 ## Requirements
 
